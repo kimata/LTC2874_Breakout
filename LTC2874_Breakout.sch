@@ -19,7 +19,7 @@ U 1 1 60D05B5B
 P 4750 1250
 F 0 "U1" H 4622 1717 50  0000 C CNN
 F 1 "LTC2874" H 4622 1626 50  0000 C CNN
-F 2 "Package_SO:TSSOP-38_4.4x9.7mm_P0.5mm" H 4950 -1550 50  0001 L CNN
+F 2 "Local:TSSOP-38_4.4x9.7mm_P0.5mm_withPad" H 4950 -1550 50  0001 L CNN
 F 3 "https://www.analog.com/media/en/technical-documentation/data-sheets/38921fc.pdf" H 700 950 50  0001 C CNN
 	1    4750 1250
 	1    0    0    -1  
